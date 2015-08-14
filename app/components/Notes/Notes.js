@@ -1,6 +1,10 @@
 var React = require('react');
 
 var Notes = React.createClass({
+	propTypes: {
+		username: React.propTypes.string.isRequired,
+		notes: React.propTypes.array.isRequired
+	},
 	render: function() {
 		return (
 			<div>
