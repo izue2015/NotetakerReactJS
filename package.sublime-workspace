@@ -1,0 +1,855 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prp",
+				"props	React: this.props."
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"g",
+				"gis	React: getInitialState: fn() { return {...} } "
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"f",
+				"find"
+			],
+			[
+				"hide",
+				"hideFinished"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"fal",
+				"false"
+			],
+			[
+				"CONS",
+				"console"
+			],
+			[
+				"qu",
+				"quantity"
+			],
+			[
+				"na",
+				"nameProduct"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"nm",
+				"nameObject"
+			],
+			[
+				"Ipo",
+				"ipos"
+			],
+			[
+				"sele",
+				"selectorTable"
+			],
+			[
+				"ob",
+				"objtectHTML"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"jos",
+				"jsonData"
+			],
+			[
+				"array",
+				"arrayInput"
+			],
+			[
+				"header",
+				"headerName"
+			],
+			[
+				"tab",
+				"tableName"
+			],
+			[
+				"get",
+				"getSelector"
+			],
+			[
+				"name",
+				"nameObject"
+			],
+			[
+				"tabl",
+				"contanerTable"
+			],
+			[
+				"tli",
+				"tblist2"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"rown",
+				"rowCount"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"j",
+				"jsonData"
+			],
+			[
+				"loca",
+				"localName"
+			],
+			[
+				"json",
+				"jsonData"
+			],
+			[
+				"me",
+				"messageError"
+			],
+			[
+				"arr",
+				"arrayData"
+			],
+			[
+				"quant",
+				"quantity"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"Stor",
+				"localStorage"
+			],
+			[
+				"cos",
+				"console"
+			],
+			[
+				"t",
+				"table	Tag"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"js",
+				"jsonData"
+			],
+			[
+				"tb",
+				"tbTodos"
+			],
+			[
+				"public",
+				"public_function"
+			],
+			[
+				"pu",
+				"public_function"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"arra",
+				"arrayItem"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS(DI)"
+			],
+			[
+				"bode",
+				"border"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"scope",
+				"$scope	AngularJS"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"Redirec",
+				"Redirect-route	Redirect-route"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"Input",
+				"Input-get	Input-get"
+			],
+			[
+				"In",
+				"Input-get	Input-get"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"Form",
+				"Form-label	Form-label"
+			],
+			[
+				"S",
+				"Session"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"HL",
+				"HTML-link	HTML-link"
+			],
+			[
+				"HTML",
+				"HTML-style	HTML-style"
+			],
+			[
+				"Session-f",
+				"Session-flash	Session-flash"
+			],
+			[
+				"R",
+				"Redirect-to	Redirect-to"
+			],
+			[
+				"for",
+				"foreach	blade-foreach"
+			],
+			[
+				"View",
+				"View-make	View-make"
+			],
+			[
+				"rout",
+				"Route"
+			],
+			[
+				"Form-",
+				"Form-text	Form-text"
+			],
+			[
+				"Route",
+				"Route-get	Route-get"
+			],
+			[
+				"Re",
+				"Redirect-to	Redirect-to"
+			],
+			[
+				"Route-f",
+				"Route-filter	Route-filter"
+			],
+			[
+				"Ro",
+				"Route-get	Route-get"
+			],
+			[
+				"ca",
+				"campo"
+			],
+			[
+				"Inpu",
+				"Input-get	Input-get"
+			],
+			[
+				"Rou",
+				"Route-post	Route-post"
+			],
+			[
+				"For",
+				"Form-text	Form-text"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"to",
+				"tomorrowSDateArray"
+			],
+			[
+				"BA",
+				"background-size"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"sty",
+				"border-style"
+			],
+			[
+				"rb",
+				"rgba"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"padi",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"rgb",
+				"rgba"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"aer",
+				"article	Tag"
+			],
+			[
+				"ht",
+				"http-equiv	Attr"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"__",
+				"__return_false"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: redire",
+				"Snippet: Redirect-action"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"",
+				"Code Folding: Unfold All"
+			]
+		],
+		"width": 471.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"osascript -e 'tell app \"TextMate\" to reload bundles'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/reactjs/demo1/index.html",
+		"/Applications/MAMP/htdocs/reactjs/demo2/index.html",
+		"/Applications/MAMP/htdocs/reactjs/demo2/prueba1.html",
+		"/Applications/MAMP/htdocs/reactjs/demo2/app.js",
+		"/Applications/MAMP/htdocs/reactjs/demo1/demo2.html",
+		"/Applications/MAMP/htdocs/reactjs/demo1/app.js",
+		"/Applications/MAMP/htdocs/reactjs/demos/app.js",
+		"/Users/PCZero/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/reactjs/example1/index.html",
+		"/Applications/MAMP/htdocs/reactjs/demos/prueba1.html",
+		"/Applications/MAMP/htdocs/reactjs/example1/scripts/example.js",
+		"/Users/PCZero/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/MAMP/htdocs/reactjs/prueba1.html",
+		"/Users/PCZero/Documents/Sitios Web/html2015/guardardatoslocal.html",
+		"/Users/PCZero/Documents/Sitios Web/html2015/js/ipos.js",
+		"/Users/PCZero/Documents/Sitios Web/html2015/guardardatoslocaljson2.html",
+		"/Applications/MAMP/htdocs/apps/ventas/public/css/font-awesome.min.css",
+		"/Applications/MAMP/htdocs/apps/ventas/public/build/css/all-b3239a47.css",
+		"/Applications/MAMP/htdocs/apps/mysample/.#index.php",
+		"/Applications/MAMP/htdocs/apps/mysample/#index.php#",
+		"/Users/PCZero/Downloads/add-to-cart-interaction/css/style.css",
+		"/Users/PCZero/Downloads/add-to-cart-interaction/index.html",
+		"/Users/PCZero/Downloads/add-to-cart-interaction/js/index.js",
+		"/Users/PCZero/Desktop/mejorandogit-master/stylesheets/styles.css",
+		"/Users/PCZero/Desktop/mejorandogit-master/commits.txt",
+		"/Users/PCZero/Desktop/mejorandogit-master/index.html",
+		"/Users/PCZero/Desktop/mejorandogit-master/freddier.txt",
+		"/prueba.html",
+		"/Users/PCZero/Downloads/initializr/css/main.css",
+		"/Users/PCZero/Downloads/MisDise-os-master/Design08/estilo/slider.css",
+		"/Users/PCZero/Downloads/MisDise-os-master/Design08/estilo/index.css",
+		"/Users/PCZero/Downloads/MisDise-os-master/Design10/js/jmpress.js",
+		"/Users/PCZero/Downloads/starter-template 2/js/init.js",
+		"/Applications/MAMP/htdocs/resolutions/resolutions.css",
+		"/Users/PCZero/Downloads/starter-template/css/style.css",
+		"/Users/PCZero/Downloads/parallax-template/css/style.css",
+		"/Users/PCZero/Downloads/parallax-template/css/materialize.css",
+		"/Users/PCZero/Downloads/parallax-template/js/init.js",
+		"/Applications/MAMP/htdocs/laveluptuts/polymer/elements/hello-world.html",
+		"/Users/PCZero/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/PCZero/Documents/Sitios Web/html2005/guardardatoslocal.html",
+		"/Users/PCZero/Downloads/selectize.js-master/examples/basic.html",
+		"/Users/PCZero/Documents/Sitios Web/bootstrap/index.php",
+		"/Users/PCZero/Documents/Sitios Web/Angular/alumno.js",
+		"/Users/PCZero/Documents/Sitios Web/Angular/ejemplo3.html",
+		"/Applications/MAMP/htdocs/SVENTAS/application/config/database.php",
+		"/Applications/MAMP/htdocs/SVENTAS/application/core/index.html",
+		"/Applications/MAMP/htdocs/SVENTAS/pos.sql",
+		"/Applications/MAMP/htdocs/laravel/prueba/app/database/migrations/2015_01_24_015536_create_users_table.php",
+		"/Applications/MAMP/htdocs/laravel/prueba/public/index.php",
+		"/Users/PCZero/Documents/Sitios Web/Angular/inicio",
+		"/Users/PCZero/Documents/Sitios Web/Nodejs/ArrayFilter.js",
+		"/Users/PCZero/Documents/Sitios Web/Nodejs/ArrayForEachItem.js",
+		"/Users/PCZero/Documents/Sitios Web/Nodejs/LookingForItemsOnArray.js",
+		"/Users/PCZero/Documents/Sitios Web/Nodejs/ArrayShiftUnAndShiftOperation.js",
+		"/Users/PCZero/Documents/Sitios Web/Nodejs/ArrayPushAndPopOperations.js",
+		"/Users/PCZero/Documents/Sitios Web/Nodejs/BasicClassDefinition.js",
+		"/Users/PCZero/Documents/Sitios Web/Nodejs/BasicInheritance.js",
+		"/Users/PCZero/Documents/Sitios Web/Nodejs/BasicInheritance",
+		"/Users/PCZero/Documents/Sitios Web/miservidor/public/javascripts/alumno.js",
+		"/Users/PCZero/Documents/Sitios Web/miservidor/public/index.html",
+		"/Users/PCZero/Documents/Sitios Web/angular-phonecat/app/index.html",
+		"/Users/PCZero/Documents/Sitios Web/angular-phonecat/test/e2e/scenarios.js",
+		"/Users/PCZero/Documents/Sitios Web/miservidor/public/index2.html",
+		"/Users/PCZero/Documents/Sitios Web/miservidor/public/styles3.css",
+		"/Users/PCZero/Documents/Sitios Web/miservidor/public/alumno.js",
+		"/Users/PCZero/Documents/Sitios Web/miservidor/app.js",
+		"/Users/PCZero/Documents/Sitios Web/Angular/styles3.css",
+		"/Users/PCZero/Documents/Sitios Web/Angular/ejemplo2.html",
+		"/Users/PCZero/Documents/Sitios Web/Angular/index.html",
+		"/Users/PCZero/Downloads/Themeforest-April Updates/Bellissima - Responsive.WooCommerce.Template.v4.1/bellissima/woocommerce/single-product-reviews.php",
+		"/Applications/MAMP/htdocs/laravel/authentication/app/controllers/AccountController.php",
+		"/Applications/MAMP/htdocs/laravel/authentication/app/views/account/create.blade.php",
+		"/Users/PCZero/Downloads/Themeforest-April Updates/Bellissima - Responsive.WooCommerce.Template.v4.1/bellissima/woocommerce/single-product.php",
+		"/Applications/MAMP/htdocs/laravel/authentication/app/views/layout/navigation.blade.php",
+		"/Applications/MAMP/htdocs/laravel/authentication/app/view/account/create.blade.php",
+		"/Applications/MAMP/htdocs/laravel/authentication/app/controllers/HomeController.php",
+		"/Applications/MAMP/htdocs/laravel/authentication/app/view/home.blade.php",
+		"/Applications/MAMP/htdocs/laravel/authentication/app/view/layout/navigation.blade.php",
+		"/Applications/MAMP/htdocs/laravel/authentication/app/routes.php",
+		"/Applications/MAMP/htdocs/laravel/authentication/app/views/emails/auth/test.blade.php",
+		"/Applications/MAMP/htdocs/laravel/authentication/app/config/mail.php",
+		"/Applications/MAMP/htdocs/laravel/authentication/app/config/database.php",
+		"/Applications/MAMP/htdocs/laravel/authentication/app/views/home.blade.php",
+		"/Applications/MAMP/htdocs/laravel/authentication/app/views/layout/main.blade.php",
+		"/Applications/MAMP/htdocs/laravel/authentication/app/config/app.php",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/routes.php",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/views/users/new.blade.php",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/controllers/UsersController.php",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/models/user.php",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/views/layouts/default.blade.php",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/models/basemodel.php",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/public/css/main.css",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/views/questions/index.blade.php",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/controllers/QuestionsController.php",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/views/index.blade.php",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/index.blade.php",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/views/layouts",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/controllers/questions.php",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/config/database.php",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/config/app.php",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/database/migrations/2014_08_27_055905_create_users_table.php",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/models/user",
+		"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/filters.php",
+		"/Users/PCZero/Documents/ruby/holamundo.rb",
+		"/Users/PCZero/Documents/ruby/holamundo",
+		"/Applications/MAMP/htdocs/bootstrap3/index.php",
+		"/Applications/MAMP/htdocs/bootstrap3/css/style.css",
+		"/Users/PCZero/Downloads/fontello-37f9b382/font/fontello.svg",
+		"/Applications/MAMP/htdocs/bootstrap3/read.php",
+		"/Users/PCZero/Downloads/CRUD-en-Laravel-4-master/app/routes.php",
+		"/Applications/MAMP/htdocs/laravel/crud/app/routes.php",
+		"/Applications/MAMP/htdocs/laravel/crud/app/views/users/index.blade.php",
+		"/Applications/MAMP/htdocs/laravel/crud/app/controllers/UserController.php",
+		"/Applications/MAMP/htdocs/laravel/crud/app/views/users/show.blade.php",
+		"/Users/PCZero/Downloads/CRUD-en-Laravel-4-master/app/views/users/show.blade.php",
+		"/Users/PCZero/Downloads/CRUD-en-Laravel-4-master/app/models/User.php",
+		"/Users/PCZero/Downloads/CRUD-en-Laravel-4-master/server.php",
+		"/Users/PCZero/Downloads/CRUD-en-Laravel-4-master/sql/users.sql",
+		"/Users/PCZero/Downloads/CRUD-en-Laravel-4-master/app/config/queue.php",
+		"/Users/PCZero/Downloads/CRUD-en-Laravel-4-master/app/config/database.php",
+		"/Users/PCZero/Downloads/CRUD-en-Laravel-4-master/app/config/app.php",
+		"/Users/PCZero/Downloads/CRUD-en-Laravel-4-master/app/config/auth.php",
+		"/Users/PCZero/Downloads/CRUD-en-Laravel-4-master/app/controllers/UserController.php",
+		"/Applications/MAMP/htdocs/laravel/crud/app/views/users/create.blade.php",
+		"/Applications/MAMP/htdocs/laravel/basic/app/routes.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/laravel/makeitsnappy/app/views/questions",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"product_price",
+			"animate",
+			"product",
+			"spinner",
+			"view_gallery",
+			"MakeFloatingCart",
+			"animate",
+			"setTimeout",
+			"quantity",
+			"remove",
+			"arrayJSON",
+			"jsonData",
+			"tableName",
+			"table",
+			"quantity",
+			"'#quantity'",
+			"#quantity'",
+			"'#description'",
+			"description",
+			" \n",
+			"this",
+			"			 // var $table =$('#tblList');\n\n			 // $table.delegate('.remove', 'click', function() {\n			 		\n			 // 		var $tr = $(this).closest('tr');\n\n			 // 		//alert($(this).attr('data-id'));\n\n			 // 		$tr.remove();\n			 // });\n",
+			"tblList",
+			"tbTodos",
+			"tbTodosjson",
+			"localJsonName",
+			"tbTodos",
+			"console",
+			"tbTodos",
+			"todosjson",
+			"\"",
+			"();\n",
+			">\n",
+			";\n",
+			"css",
+			"open-sans-css",
+			"stylesheet",
+			"dd",
+			"twentyfourteen",
+			"content-area",
+			"adobe",
+			"mockup"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"localJsonName"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
