@@ -4,8 +4,8 @@ var Router = require('react-router')
 
 var Repos = React.createClass({
 	propTypes: {
-		username: React.propTypes.string.isRequired,
-		repos: React.propTypes.array.isRequired
+		username: React.PropTypes.string.isRequired,
+		repos: React.PropTypes.array.isRequired
 	},
 	render: function() {
 		return (

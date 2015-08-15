@@ -3,16 +3,25 @@ var Router = require('react-router')
 var Repos = require('./Github/Repos')
 var UserProfile = require('./Github/UserProfile')
 var Notes = require('./Notes/Notes')
-
+var ReactFireMixin = require('reactfire')
+var Firebase = require('firebase')
 
 var Profile = React.createClass({
-	mixins: [Router.State],
+	mixins: [Router.State, ReactFireMixin],
 	getInitialState:function(){
 		return {
-			notes: ['nota1', 'nota2'],
+			notes: [],
 			bio: {name: 'Cueva'},
 			repos:[1,2,3]
 		}
+	},
+  componentDidMount: function(){
+		this.ref = new Firebase('https://blazing-fire-8987.firebaseio.com');
+		var childRef = this.ref.child(this.getParams().username);
+		this.bindAsArray(childRef, 'notes');
+	},
+	componentWillUnmount: function(){
+		this.unbind('notes');
 	},
 	render: function() {
 		//esto funciona por el mixins
