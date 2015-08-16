@@ -5,23 +5,41 @@ var UserProfile = require('./Github/UserProfile')
 var Notes = require('./Notes/Notes')
 var ReactFireMixin = require('reactfire')
 var Firebase = require('firebase')
+var helpers = require('../utils/helpers');
+
 
 var Profile = React.createClass({
 	mixins: [Router.State, ReactFireMixin],
 	getInitialState:function(){
 		return {
 			notes: [],
-			bio: {name: 'Cueva'},
-			repos:[1,2,3]
+			bio: {},
+			repos:[]
 		}
 	},
   componentDidMount: function(){
-		this.ref = new Firebase('https://blazing-fire-8987.firebaseio.com');
-		var childRef = this.ref.child(this.getParams().username);
-		this.bindAsArray(childRef, 'notes');
+	    this.ref = new Firebase('https://github-note-taker.firebaseio.com');
+	    var childRef = this.ref.child(this.getParams().username);
+	    this.bindAsObject(childRef, 'notes');
+
+	    helpers.getGithubInfo(this.getParams().username)
+	    	.then(function(dataObj){
+	    		this.setState({
+	    			bio: dataObj.bio,
+	    			repos: dataObj.repos
+	    		});
+	    	}.bind(this));
+
 	},
 	componentWillUnmount: function(){
 		this.unbind('notes');
+	},
+
+	handleAddNode: function(newNote) {
+		console.log(this.state.notes)
+
+		this.ref.child(this.getParams().username).set(this.state.notes.concat([newNote]));
+		
 	},
 	render: function() {
 		//esto funciona por el mixins
@@ -36,7 +54,10 @@ var Profile = React.createClass({
 					<Repos username={username} repos={this.state.repos} />
 				</div>
 				<div className="col-md-4">
-					<Notes username={username} notes={this.state.notes}/>
+					<Notes 
+					username={username} 
+					notes={this.state.notes}
+					addNote={this.handleAddNode} />
 				</div>
 			</div>
 		);
